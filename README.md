@@ -2,7 +2,7 @@
 Andyt significa android disassembly tool, e é uma ferramenta para desmontar um aplicativo para código java e após isso, recompila-lo, possibilitando fazer edições precisas.
 > :warning:  A versão atual pode não apresentar tudo oque o andyt promete, pois está em fase de desenvolvimento, verifique a [lista TODO](#todo).
 
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)]()
+[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://github.com/reversive-exe/andyt/)
 
 ## Requisitos
 - Nodejs => https://nodejs.org/en/
