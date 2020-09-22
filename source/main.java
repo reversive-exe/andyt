@@ -5,14 +5,14 @@ import android.os.Bundle;
 
 public class main {
 
-    String message = "Welcome!";
+    String message = "Bem vindo!";
 
     public void onCreate(Bundle bundle){
         super.onCreate(bundle);
     }
 
     public String getMessage(){
-        
+        return message;
     }
 
 }

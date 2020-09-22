@@ -3,7 +3,7 @@
 .source "main.java"
 
 # static fields
-.field  message:Ljava/lang/String; = "Welcome!"
+.field  message:Ljava/lang/String; = "Bem vindo!"
 
 # virtual methods
 .method public onCreate()V

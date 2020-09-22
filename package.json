@@ -1,12 +1,12 @@
 {
   "name": "smali2java",
   "version": "1.0.0",
-  "description": "",
+  "description": "andyt uma ferramenta para invasão de aplicativos.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "reversive.exe",
   "license": "ISC",
   "dependencies": {
     "path": "^0.12.7"
